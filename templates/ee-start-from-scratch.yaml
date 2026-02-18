@@ -11,7 +11,7 @@ metadata:
     - automation
     - start-from-scratch
 spec:
-  type: execution-env
+  type: execution-environment
 
   parameters:
     # Step 1: Base Image Selection
