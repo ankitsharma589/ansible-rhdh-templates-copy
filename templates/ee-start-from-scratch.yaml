@@ -338,7 +338,7 @@ spec:
 
   steps:
     # Step 1: Create EE definition files
-    - id: create-ee-definition
+    - id: create-ee-def
       name: Create Execution Environment Definition
       action: ansible:create:ee-definition
       input:
