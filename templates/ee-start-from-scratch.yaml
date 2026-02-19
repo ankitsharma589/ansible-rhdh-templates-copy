@@ -7,11 +7,11 @@ metadata:
   description: Create Ansible Execution Environment definition file from scratch
   tags:
     - ansible
-    - execution-environment
+    - execution-environmen
     - automation
     - start-from-scratch
 spec:
-  type: execution-environment
+  type: execution-environmen
 
   parameters:
     # Step 1: Base Image Selection
